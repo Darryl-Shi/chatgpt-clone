@@ -4,7 +4,7 @@
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "{Your ChimerGPT Key}",
+    "openai_key": "{Your ChimeraGPT Key}",
 
     "openai_api_base": "https://chimeragpt.adventblocks.cc",
     "proxy": {
