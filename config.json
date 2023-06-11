@@ -4,11 +4,11 @@
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "edWrjz0R98GaZvRCypoFYoTudRC40GER9gta3hI2mGY",
+    "openai_key": "sk-...",
 
-    "openai_api_base": "https://chimeragpt.adventblocks.cc",
+    "openai_api_base": "https://api.openai.com",
     "proxy": {
-        "enable": false,
+        "enable": true,
         "http": "127.0.0.1:7890",
         "https": "127.0.0.1:7890"
     }
