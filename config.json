@@ -4,11 +4,7 @@
         "port" : 1338,
         "debug": false
     },
-<<<<<<< Updated upstream
-    "openai_key": "{Your ChimeraGPT Key}",
-=======
     "openai_key": "{Your CattoGPT Key}",
->>>>>>> Stashed changes
 
     "openai_api_base": "https://api.cattogpt.repl.co/v1",
     "proxy": {
