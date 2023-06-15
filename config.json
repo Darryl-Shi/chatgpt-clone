@@ -4,9 +4,9 @@
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "{Your ChimeraGPT Key}",
+    "openai_key": "{Your CattoGPT Key}",
 
-    "openai_api_base": "https://chimeragpt.adventblocks.cc",
+    "openai_api_base": "https://api.cattogpt.repl.co/v1",
     "proxy": {
         "enable": false,
         "http": "127.0.0.1:7890",
